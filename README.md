@@ -1,4 +1,4 @@
-# 🧠 InsureLLM — RAG-Based AI Knowledge Worker
+#  InsureLLM — RAG-Based AI Knowledge Worker
 
 > **Build an AI knowledge worker using RAG to become an expert on all company-related matters.**
 
@@ -32,7 +32,7 @@ Answer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **LangChain** — RAG pipeline
 - **Hugging Face** — Embedding model
@@ -45,7 +45,7 @@ Answer
 
 ---
 
-## 📚 Knowledge Base & Embeddings
+## Knowledge Base & Embeddings
 
 Company-related documents are:
 
@@ -56,7 +56,7 @@ Company-related documents are:
 
 The knowledge base produces **413 chunks**.
 
-### 📊 Vector Visualization
+### Vector Visualization
 
 **2D t-SNE**
 
@@ -72,7 +72,7 @@ The knowledge base produces **413 chunks**.
 
 ---
 
-## 🤖 RAG Question Answering
+## RAG Question Answering
 
 LangChain is used to connect the retriever and LLM.
 
@@ -94,7 +94,7 @@ Answer + Sources
 
 The Gradio application provides an interface for interacting with the RAG system.
 
-### 💻 Gradio UI
+### Gradio UI
 
 > 📷 Add application screenshot here
 
@@ -131,7 +131,7 @@ A strong LLM is used as a judge to evaluate:
 
 ---
 
-# 📊 Evaluation Experiments
+# Evaluation Experiments
 
 Three experiments were performed by changing the **number of workers** and **chunking size**.
 
